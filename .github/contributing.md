@@ -57,6 +57,10 @@ Hi! I'm really excited that you are interested in contributing to Vue.js. Before
 
 ## Development Setup
 
+To get started quickly, you can use Gitpod to contribute to the project in a Cloud Development Environment. It will automatically clone your repository, install all the required tools, build the project and make you ready to code in your browser or in your favorite local IDE. You can just click on the button below to start coding & skip the rest of this section.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
 You will need [Node.js](https://nodejs.org) **version 16+**, and [PNPM](https://pnpm.io) **version 8+**.
 
 We also recommend installing [ni](https://github.com/antfu/ni) to help switching between repos using different package managers. `ni` also provides the handy `nr` command which running npm scripts easier.
